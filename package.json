@@ -1,0 +1,26 @@
+{
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "name": "ftybr-add-to-req",
+  "description": "Add data to request",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connrs/node-ftybr-add-to-req.git"
+  },
+  "main": "lib/ftybr-add-to-req.js",
+  "scripts": {
+    "test": "node_modules/tape/bin/tape test/*.js"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    }
+  ],
+  "author": "connrs",
+  "devDependencies": {
+    "tape": "~2.0.0"
+  }
+}
