@@ -4,7 +4,7 @@
   },
   "name": "ftybr-add-to-req",
   "description": "Add data to request",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/connrs/node-ftybr-add-to-req.git"
